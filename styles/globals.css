@@ -42,10 +42,11 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../public/images/bg-texture.png);
+  background-image: url(../public/images/bg7.jpg);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 /* ======================== GENERAL =================== */

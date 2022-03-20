@@ -8,7 +8,6 @@ export default function MainContainer({children}) {
     return (
         <>
             <Header />
-            <Navbar />
             <div>
                 {children}
             </div>
