@@ -15,7 +15,7 @@ export default function Navbar() {
                     <Link href="/contact"><a>Contatos</a></Link>
                 </li>
                 <li>
-                    <Link href="/signin"><a>Entrar</a></Link>
+                    <Link href="/account/signin"><a>Entrar</a></Link>
                 </li>
             </ul>
         </>
